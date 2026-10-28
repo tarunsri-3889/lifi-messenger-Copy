@@ -1,0 +1,6 @@
+{
+  "name": "Li-Fi Messenger",
+  "description": "Professional Web Serial messenger interface for Arduino Uno and 16x2 I2C LCD with real-time hardware communication at 9600 baud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
